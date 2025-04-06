@@ -12,6 +12,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+/* style for  main  */
 .main {
   margin-top: 100px;
   width: 350px;
@@ -44,7 +45,7 @@ form input {
   margin-left: -7px;
 }
 form .phone {
-  width: 22px;
+  width: 21px;
   position: relative;
   top: 184px;
   right: 110px;
