@@ -28,8 +28,8 @@ body {
 }
 form {
   padding: 30px;
-  margin-left: 30px;
-  margin-top: -20px;
+  margin-left: 31px;
+  margin-top: -21px;
   position: relative;
   bottom: 180px;
 }
@@ -53,7 +53,7 @@ form .phone {
 form .password {
   width: 25px;
   position: relative;
-  bottom: 86px;
+  bottom: 87px;
   right: 114px;
 }
 .input2 {
@@ -71,7 +71,7 @@ form .password {
   bottom: 40px;
   font-family: Google Sans Medium;
   color: #fff;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   border: none;
 }
 .BTN-2 {
